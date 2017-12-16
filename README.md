@@ -55,53 +55,87 @@ interested in using it but encounter obstacles doing so.
 In addition, if you use this in academic work, please cite the
 following paper:
 
-```
-@article{spiral-codes2017,
-	author = {Lukas N. Wirz and Peter Schwerdtfeger and James E. Avery},
-	title = {Naming Polyhedra by General Face-Spirals -- Theory and Applications to Fullerenes and other Polyhedral Molecules},
-	journal = {Fullerenes, Nanotubes and Carbon Nanostructures},
-	volume = {0},
-	number = {ja},
-	pages = {0-0},
-	year  = {2017},
-	publisher = {Taylor & Francis},
-	doi = {10.1080/1536383X.2017.1388231}
+<table>
+<tr>
+<td>
+<pre>
+@article{SpiralCodes2017,
+  author = {Lukas N. Wirz and Peter Schwerdtfeger
+            and James E. Avery},
+  title = {Naming Polyhedra by General Face-Spirals:
+           Theory and Applications to Fullerenes and
+           other Polyhedral Molecules},
+  journal = {Fullerenes, Nanotubes and Carbon Nanostructures},
+  volume = {0},
+  number = {ja},
+  pages = {0-0},
+  year  = {2017},
+  publisher = {Taylor & Francis},
+  doi = {10.1080/1536383X.2017.1388231}
 }
-```
+</pre>
+</td>
+<td>
+<a href="https://doi.org/10.1080/1536383X.2017.1388231">
+<img src="http://www.nbi.dk/~avery/gs_paper-spiralpage-400px.png" width="300px"/>
+</a>
+</td>
+</tr>
+</table>
 
 If you use the full `libgraph` library, we ask that you also cite our Fullerene project, which it is extracted from.
 The associated papers are
 
-```
+<table>
+<tr>
+<td>
+<pre>
 @article {ProgramFullerenes2013,
-author = {Schwerdtfeger, Peter and Wirz, Lukas and Avery, James},
-title = {Program Fullerene: A software package for constructing and analyzing structures of regular fullerenes},
-journal = {Journal of Computational Chemistry},
-volume = {34},
-number = {17},
-issn = {1096-987X},
-url = {http://dx.doi.org/10.1002/jcc.23278},
-doi = {10.1002/jcc.23278},
-pages = {1508--1526},
-year = {2013}
+  author = {Schwerdtfeger, Peter and Wirz, Lukas and Avery, James},
+  title = {Program Fullerene: A software package for constructing
+           and analyzing structures of regular fullerenes},
+  journal = {Journal of Computational Chemistry},
+  volume = {34},
+  number = {17},
+  issn = {1096-987X},
+  url = {http://dx.doi.org/10.1002/jcc.23278},
+  doi = {10.1002/jcc.23278},
+  pages = {1508--1526},
+  year = {2013}
 }
-```
+</pre>
+</td>
+<td>
+<a href="http://onlinelibrary.wiley.com/doi/10.1002/jcc.23278/abstract"><img src="http://onlinelibrary.wiley.com/store/10.1002/jcc.23343/asset/image_m/jcc23343-fig-0001-m.png?v=1&s=c563bd44689bbc8815ce750658ba6fda2b8e51e5" width="300px" /></a>
+</td>
+</tr>
+</table>
 and
-```
+<table>
+<tr>
+<td>
+<pre>
 ﻿@article {FullereneTopology2015,
-author = {Schwerdtfeger, Peter and Wirz, Lukas N and Avery, James},
-title = {The topology of fullerenes},
-journal = {Wiley Interdisciplinary Reviews: Computational Molecular Science},
-volume = {5},
-number = {1},
-publisher = {Wiley Periodicals, Inc.},
-issn = {1759-0884},
-url = {http://dx.doi.org/10.1002/wcms.1207},
-doi = {10.1002/wcms.1207},
-pages = {96--145},
-year = {2015},
+  author = {Schwerdtfeger, Peter and Wirz, Lukas N and Avery, James},
+  title = {The topology of fullerenes},
+  journal = {Wiley Interdisciplinary Reviews:
+             Computational Molecular Science},
+  volume = {5},
+  number = {1},
+  publisher = {Wiley Periodicals, Inc.},
+  issn = {1759-0884},
+  url = {http://dx.doi.org/10.1002/wcms.1207},
+  doi = {10.1002/wcms.1207},
+  pages = {96--145},
+  year = {2015},
 }
-```
+</pre>
+</td>
+<td>
+<a href="http://wires.wiley.com/WileyCDA/WiresArticle/wisId-WCMS1207.html"><img src="http://www.nbi.dk/~avery/WIREpaper-transform-page-400px.png" width="300px"></a>
+</td>
+</tr>
+</table>
 
 <table>
 <tr><td>
