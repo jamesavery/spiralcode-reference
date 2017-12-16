@@ -50,7 +50,12 @@ and includes many other operations than spiral names.
 You are encouraged to incorporate this reference implementation in
 your own software (under the BSD license), but we ask that you write
 us an email if you do. You are also welcome to write us if you are
-interested in using it but encounter obstacles doing so.
+interested in using it but encounter obstacles doing so. 
+<pre>
+James Avery (avery at nbi.ku.dk)
+Lukas Wirz  (email in AUTHORS file)
+Peter Schwerdtfeger (email in AUTHORS file)
+</pre>
 
 In addition, if you use this in academic work, please cite the
 following paper:
@@ -139,7 +144,7 @@ and
 
 <table>
 <tr><td>
-<a href="http://onlinelibrary.wiley.com/doi/10.1002/jcc.23278/abstract"><img src="http://onlinelibrary.wiley.com/store/10.1002/jcc.23343/asset/image_m/jcc23343-fig-0001-m.png?v=1&s=c563bd44689bbc8815ce750658ba6fda2b8e51e5" width="300px" /></a>
+<a href="http://onlinelibrary.wiley.com/doi/10.1002/jcc.23343/full"><img src="http://onlinelibrary.wiley.com/store/10.1002/jcc.23343/asset/image_m/jcc23343-fig-0001-m.png?v=1&s=c563bd44689bbc8815ce750658ba6fda2b8e51e5" width="300px" /></a>
 </td><td>
 <a href="http://wires.wiley.com/WileyCDA/WiresArticle/wisId-WCMS1207.html">
 <img src="http://pubs.acs.org/appl/literatum/publisher/achs/journals/content/jcisd8/2014/jcisd8.2014.54.issue-1/jcisd8.2014.54.issue-1/production/jcisd8.2014.54.issue-1.largecover.jpg"/></a>
