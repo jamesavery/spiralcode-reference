@@ -82,7 +82,7 @@ following paper:
 </td>
 <td>
 <a href="https://doi.org/10.1080/1536383X.2017.1388231">
-<img src="http://www.nbi.dk/~avery/gs_paper-spiralpage-400px.png" width="300px"/>
+<img src="http://www.nbi.dk/~avery/Polyhedra/images/gs_paper-spiralpage-400px.png" width="300px"/>
 </a>
 </td>
 </tr>
@@ -137,7 +137,7 @@ and
 </pre>
 </td>
 <td>
-<a href="http://wires.wiley.com/WileyCDA/WiresArticle/wisId-WCMS1207.html"><img src="http://www.nbi.dk/~avery/WIREpaper-transform-page-400px.png" width="300px"></a>
+<a href="http://wires.wiley.com/WileyCDA/WiresArticle/wisId-WCMS1207.html"><img src="http://www.nbi.dk/~avery/Polyhedra/images/WIREpaper-transform-page-400px.png" width="300px"></a>
 </td>
 </tr>
 </table>
@@ -151,12 +151,12 @@ and
 </td>
 <td>
 <a href="http://wires.wiley.com/WileyCDA/WiresArticle/wisId-WCMS1207.html">
-<img src="http://www.nbi.dk/~avery/WIREpaper-transform-page-400px.png" width="300px">
+<img src="http://www.nbi.dk/~avery/Polyhedra/images/WIREpaper-transform-page-400px.png" width="300px">
 </a>
 </td>
 <td>
 <a href="https://doi.org/10.1080/1536383X.2017.1388231">
-<img src="http://www.nbi.dk/~avery/gs_paper-spiralpage-400px.png" width="300px"/>
+<img src="http://www.nbi.dk/~avery/Polyhedra/images/gs_paper-spiralpage-400px.png" width="300px"/>
 </a>
 </td>
 </tr>
