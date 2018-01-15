@@ -66,6 +66,7 @@ bool Polyhedron::to_file(const Polyhedron &G, string filename)
   string extension = filename_extension(filename);  
   to_file(G,file,extension);
   fclose(file);
+  return true;			// TODO: Check success
 }
 
 
@@ -306,12 +307,11 @@ Polyhedron Polyhedron::from_xyz(FILE *file)
   int N;
   string Nstring, comment, element,line;
   vector<coord3d> points;
-  char *lineptr;
-  size_t line_len;
 
   getline(file,Nstring);
   getline(file,comment);
 
+  N = strtol(Nstring.c_str(),0,0);
 
   for(int i=0; i < N && getline(file,line); i++){
     stringstream l(line);
