@@ -220,12 +220,11 @@ void spiral_nomenclature::fulleroid_constructor(const vector<vector<int>> &spira
 }
 
 // TODO: Should it be possible to specify base_face_degree?
-spiral_nomenclature::spiral_nomenclature(const PlanarGraph &G, const naming_scheme_t naming_scheme,
-					 const construction_scheme_t construction_scheme, bool rarest_special_start) :
+spiral_nomenclature::spiral_nomenclature(const PlanarGraph &G, const naming_scheme_t naming_scheme, bool rarest_special_start) :
   naming_scheme(naming_scheme), search_scheme(rarest_special_start? CANONICAL_GENERALIZED_SPIRAL : COMPATIBILITY_CANONICAL_SPIRAL),
-  construction_scheme(construction_scheme), base_face_degree(6)
+  base_face_degree(6)
 {
-  Triangulation T(G.enveloping_triangulation(construction_scheme));
+  Triangulation T(G.enveloping_triangulation(construction_scheme)); // This *writes* to construction_scheme
   general_spiral spiral = T.get_general_spiral(rarest_special_start);
 
   // Which face degrees appear?
