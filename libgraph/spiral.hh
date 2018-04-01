@@ -86,7 +86,9 @@ struct spiral_nomenclature {
   void cage_constructor(const vector<vector<int>> &spiral_numbers);
 
   spiral_nomenclature(const string &str);
-  spiral_nomenclature(const PlanarGraph &G, const naming_scheme_t name_type=CAGE, bool rarest_special_start = true);
+  spiral_nomenclature(const PlanarGraph &G, const naming_scheme_t name_type=CAGE,
+		      const construction_scheme_t construction_scheme=TRIANGULATION,
+		      bool rarest_special_start = true);
 
   static string search_scheme_txt[4], construction_scheme_txt[4], naming_scheme_txt[4];
 
